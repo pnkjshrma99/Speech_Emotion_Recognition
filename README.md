@@ -24,9 +24,3 @@ python train_audio_only.py
 ```
 The average accuracy is about ~53% (UW) and 52% (WA) for CNN-BLSTM. The paper reports 55%(WA) and 51% (UW) using CNN-BILSTM-ATTENTION model. 
 
-WORK IN PROGRESS
-Few preprocessing scripts are taken from https://github.com/Samarth-Tripathi/IEMOCAP-Emotion-Detection
-
-Paper link : https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2594.pdf
-
-
